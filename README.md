@@ -4,7 +4,7 @@ Docker-image for WebSocket connectivity test.
 ## How to
 ### Start contaienr
 ```bash
-$ docker run -p 8010:8010 --name web-socket-test ksdn117/web-socket-test
+$ docker run -p 8010:8010 --name web-socket-test reaper7/web-socket-test:v1
 ```
 
 ### Connect to container with WebSocket
