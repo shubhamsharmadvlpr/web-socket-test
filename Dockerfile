@@ -1,6 +1,6 @@
 FROM node:alpine
 
-LABEL maintainer="ksdn117@gmail.com"
+LABEL maintainer="dikshits409@gmail.com"
 
 RUN npm install -g ws
 
